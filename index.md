@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Super Blog
 
-I'm glad you are here. I plan to talk about ...
+This is my new blog.
+- Hi
+- There
